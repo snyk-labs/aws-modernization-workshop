@@ -28,7 +28,7 @@
     <!-- UI (WebJar, Bootstrap, JQuery...) -->
     <version.bootstrap>3.3.7-1</version.bootstrap>
     <version.jquery>2.2.4</version.jquery>
-    <version.primefaces>6.1</version.primefaces>
+    <version.primefaces>6.2</version.primefaces>
     <version.primefaces-themes>1.0.10</version.primefaces-themes>
     <version.fontawesome>4.7.0</version.fontawesome>
     <!-- Other -->
